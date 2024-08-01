@@ -2,9 +2,9 @@
 
 😄 Pronouns: He/Him
 
-🔭 I’m currently working on creating a portfolio page to showcase my projects!
+🔭 I’m currently working on making a personal library application!
 
-🌱 I’m currently learning about Angular 
+🌱 I’m currently learning how to use Ruby on Rails!
 
 **How to reach me**: 
 - LinkedIn: https://www.linkedin.com/in/louiskuczykowski/
