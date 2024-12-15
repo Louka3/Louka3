@@ -2,7 +2,7 @@
 
 I am a highly motivated software developer with a strong foundation in web development and a passion for building tools that solve real-world problems. I recently completed an intensive residency at Codesmith, a leading tech accelerator, where I honed my skills in modern web technologies including JavaScript, TypeScript, React, Node.js, Redux, SQL, NoSQL, CSS, and HTML. I also gained experience with tools like Webpack, Tailwind, and Jest, while deepening my understanding of asynchronous programming, data structures, and testing practices.
 
-During the residency, I collaborated with a team to create a Visual Studio Code extension that transitions React codebases from the old React paradigm to the new Server Component model. This project leveraged TypeScript, D3.js, Babel, Tailwind CSS, Azure for CI/CD, and Jest for testing, showcasing my ability to design and implement innovative solutions in a collaborative environment.
+During the residency, I collaborated with a team to create a Visual Studio Code extension that assists developers in transitioning their React codebases from the old React paradigm to the new Server Component model. This project leveraged TypeScript, D3.js, Babel, Tailwind CSS, Azure for CI/CD, and Jest for testing, showcasing my ability to design and implement innovative solutions in a collaborative environment.
 
 I hold an Associate's degree from Camden County Community College in New Jersey, where I studied computer science fundamentals including Java, Python, C programming, and data structures. Outside of formal education, I’ve expanded my skill set by independently learning the Angular framework.
 
